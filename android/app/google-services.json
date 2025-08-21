@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702745083984",
+    "project_id": "cyber-note-88a15",
+    "storage_bucket": "cyber-note-88a15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702745083984:android:68faa2b6248b24049c9155",
+        "android_client_info": {
+          "package_name": "com.neoklotho.c2_note"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPCe6ZQj7MIV17ew9IptMbIKT6RznXPbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
